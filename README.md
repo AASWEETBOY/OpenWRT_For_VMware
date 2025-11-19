@@ -62,4 +62,7 @@ After making the changes and saving, restart the network.
 7. Please refer to the topology diagram above. Configure **the network adapter of the other virtual machine that needs to use the proxy** to **VMnet1 (host-only mode)**.  Enjoy!
 ---
 # Disclaimer
-**Please comply with local laws and regulations when using this tutorial. You are solely responsible for any consequences arising from the use of this project! This project and its authors assume no responsibility for any consequences you may cause.**
+**Please comply with local laws and regulations when using this tutorial. You are solely responsible for any consequences arising from the use of this project! This project and its authors assume no responsibility for any consequences you may cause.**  
+
+# Reference article
+[在 VMWare 中安装 OpenWrt](https://shepherd-xie.github.io/2024/09/26/deploy-openwrt-on-vmware/)
