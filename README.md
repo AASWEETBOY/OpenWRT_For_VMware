@@ -21,7 +21,7 @@ This tutorial aims to create an [OpenWRT](https://openwrt.org/) virtual machine 
 <br>
 
 # Steps to create a virtual machine(openWRT)
-1. Use a tool to convert the [image](https://drive.google.com/drive/folders/1MIzj4Hn9hdUZ3K8oksl2Efqs5inrBUQ7) (.img) to VMDK format. I'm using [StarWind V2V Converter](https://www.starwindsoftware.com/tmplink/starwindconverter.exe) software here.<br>
+1. Use a tool to convert [the image powered by eSir](https://drive.google.com/drive/folders/1MIzj4Hn9hdUZ3K8oksl2Efqs5inrBUQ7) (.img) to VMDK format. I'm using [StarWind V2V Converter](https://www.starwindsoftware.com/tmplink/starwindconverter.exe) software here.<br>
 Detailed steps:<br>
 Install and open the software via the download link.<br>
 Then, Select Local file (Select the location of the image to convert) --> Browse to the location of the img format file (Source image) --> Local file (Select the location of the destination image) --> VMDK (Select destination image format) --> VMware Workstation growable image (Select option for VMDK image format) --> Customize the VMDK image name (Set destination file name) --> Select convert.  
